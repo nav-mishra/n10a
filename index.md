@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Naveen Mishra
 
 You can use the [editor on GitHub](https://github.com/nav-mishra/n10a/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
